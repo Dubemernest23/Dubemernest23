@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m @Dubemernest23
+# 👋 Hi there, I’m Nnajiogbe Chidubem
 
 I'm a backend developer passionate about building **scalable, secure, and efficient server-side systems**. I love turning complex business logic into clean, reliable APIs and data pipelines.
 
